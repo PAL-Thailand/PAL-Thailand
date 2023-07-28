@@ -2,7 +2,7 @@
 - 👀 I’m interested in databases and marketing apps.
 - 🌱 I’m currently learning about PC-Basic.
 - 💞️ I’m not looking to collaborate on various projects as of yet - maybe once I get my feet wet!
-- - 📫 How to reach me ...
+- - 📫 Reaching me is best done via my email as my hearing is impaired.
 
 <!---
 PAL-Thailand/PAL-Thailand is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
